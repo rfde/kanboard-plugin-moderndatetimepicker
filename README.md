@@ -1,9 +1,9 @@
 Modern DateTime Picker
 ==============================
 
-This plugin replaces the jQuery UI datetime picker by the excellent **flatpickr** ([Github](https://github.com/flatpickr/flatpickr), [Website](https://flatpickr.js.org/)).
+This plugin replaces the jQuery UI datetime picker with the excellent **flatpickr** ([Github](https://github.com/flatpickr/flatpickr), [Website](https://flatpickr.js.org/)).
 
-I find flatpickr easier to use: its accessible from the keyboard and falls back to native controls in mobile browsers. Here are some impressions:
+I find flatpickr easier to use: it is accessible from the keyboard and falls back to native controls in mobile browsers. Here are some impressions:
 
 *In Firefox on Linux:*
 
